@@ -1,0 +1,18 @@
+{
+  "name": "firebase-message-i18n",
+  "version": "0.0.1",
+  "description": "i18n firebase error messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nabettu/firebase-message-i18n.git"
+  },
+  "author": "@nabettu (https://github.com/nabettu)",
+  "license": "MIT"
+}
