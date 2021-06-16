@@ -1,6 +1,6 @@
 {
   "name": "firebase-message-i18n",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "i18n firebase error messages",
   "main": "index.js",
   "scripts": {
