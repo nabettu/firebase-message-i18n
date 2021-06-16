@@ -9,7 +9,7 @@
   "auth/cors-unsupported": "",
   "auth/credential-already-in-use": "",
   "auth/custom-token-mismatch": "",
-  "auth/requires-recent-login": "アカウントを削除するには、サインイン直後の必要があります。サインインしなおして再試行してください",
+  "auth/requires-recent-login": "サインイン直後の必要があります。サインインしなおして再試行してください",
   "auth/dynamic-link-not-activated": "",
   "auth/email-change-needs-verification": "",
   "auth/email-already-in-use": "このメールアドレスはすでに別のアカウントとして登録されています。",
